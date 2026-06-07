@@ -8,15 +8,15 @@ A simple web-based tool created by **NoobVellen** to help developers extract **E
 
 ## 🌐 Live Website
 
-[![Open Website](https://img.shields.io/badge/OPEN-LIVE_WEBSITE-green?style=for-the-badge)](https://noobvellen.github.io/Eat-Token)
+[![Open Website](https://img.shields.io/badge/OPEN-LIVE_WEBSITE-green?style=for-the-badge)](https://noobvellen.github.io/EAT-TO-ACCESS/)
 
-🔗 https://noobvellen.github.io/Eat-Token
+🔗 https://noobvellen.github.io/EAT-TO-ACCESS/
 
 ---
 
 ## 🖥 Live Website Preview
 
-[![Website Preview](https://image.thum.io/get/width/1200/https://noobvellen.github.io/Eat-Token)](https://noobvellen.github.io/Eat-Token)
+[![Website Preview](https://image.thum.io/get/width/1200/https://noobvellen.github.io/EAT-TO-ACCESS/)](https://noobvellen.github.io/EAT-TO-ACCESS/)
 
 Click the image above to open the live website.
 
@@ -52,7 +52,7 @@ This tool helps developers:
 
 Visit the website:
 
-https://noobvellen.github.io/Eat-Token
+https://noobvellen.github.io/EAT-TO-ACCESS/
 
 Under **Select Provider & Login**, choose your preferred login method:
 
