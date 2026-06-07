@@ -448,17 +448,9 @@
         return;
       }
 
-      if (result.nickname) {
-        document.getElementById('nick').innerText = result.nickname;
-      } else {
-        document.getElementById('nick').innerText = result.nickname || '--';
-      }
-      if (result.noti_region || result.region) {
-        document.getElementById('reg').innerText = result.noti_region || result.region;
-      }
-      if (result.accountId || result.account_id) {
-        document.getElementById('aid').innerText = result.accountId || result.account_id;
-      }
+      document.getElementById('nick').innerText = result.nickname || '--';
+      document.getElementById('reg').innerText = result.region || '--';
+      document.getElementById('aid').innerText = result.uid || '--';
 
       out.classList.remove('hidden');
     } catch (err) {
